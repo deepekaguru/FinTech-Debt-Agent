@@ -3,7 +3,7 @@
 
 An Agentic AI Financial Advisor built to help users navigate debt repayment using real-world market benchmarks. This system utilizes a multi-agent orchestration layer to transform messy financial statements into structured, actionable payoff plans.
 
-Core Features
+**Core Features**
 
 Structured Financial Extraction: Uses LLMs with constrained output to parse debt details (APR, balance, institution) from natural language.
 
@@ -13,7 +13,7 @@ Autonomous Orchestration: Built with LangGraph to manage state and route logic b
 
 Deterministic Math Tools: Implements Debt Snowball and Debt Avalanche algorithms in pure Python to ensure 100% mathematical accuracy.
 
-Technical Stack
+**Technical Stack**
 
 Framework: LangGraph / LangChain
 
